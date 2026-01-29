@@ -1,0 +1,33 @@
+﻿Feature,Target,Value,Group
+age,Infection,,Demographics
+age,Death,,Demographics
+SES_quintile,Infection,,Demographics
+SES_quintile,Death,,Demographics
+household_size,Infection,,Exposure
+household_size,Death,,Exposure
+multigenerational,Infection,,Exposure
+multigenerational,Death,,Exposure
+frontline_worker,Infection,,Exposure
+frontline_worker,Death,,Exposure
+occupation,Infection,,Exposure
+occupation,Death,,Exposure
+daily_activity_level,Infection,,Exposure
+daily_activity_level,Death,,Exposure
+is_long_term_care,Infection,,Exposure
+is_long_term_care,Death,,Exposure
+asthma,Infection,,Clinical vulnerability
+asthma,Death,,Clinical vulnerability
+copd,Infection,,Clinical vulnerability
+copd,Death,,Clinical vulnerability
+heart_disease,Infection,,Clinical vulnerability
+heart_disease,Death,,Clinical vulnerability
+diabetes,Infection,,Clinical vulnerability
+diabetes,Death,,Clinical vulnerability
+obesity,Infection,,Clinical vulnerability
+obesity,Death,,Clinical vulnerability
+smoking_history,Infection,,Clinical vulnerability
+smoking_history,Death,,Clinical vulnerability
+stroke history,Infection,,Clinical vulnerability
+stroke history,Death,,Clinical vulnerability
+hypertension,Infection,,Clinical vulnerability
+hypertension,Death,,Clinical vulnerability
